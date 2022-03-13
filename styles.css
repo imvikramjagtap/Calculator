@@ -1,0 +1,46 @@
+.container{
+    text-align: center;
+    margin-top: 5%;
+    border: 2px;
+
+}
+
+.display-screen{
+    height: 50px;
+    font-weight: 400;
+    font-size: 24px;
+    background-color: #131313;
+    color: white;
+    border-radius: 4px 4px 0 0;
+    border: 1px #131313;
+    text-align: right;
+}
+
+table{
+    margin:auto;
+    border-radius: 0 0 4px 4px; 
+    background-color: rgb(80, 79, 79);
+}
+
+td{
+    padding: 15px 30px;
+    font-weight: 700;
+    background-color: #f3f1f1;
+}
+
+td:hover{
+    background-color: aqua;
+}
+
+.first-row{
+    background-color: gray;
+}
+
+#equal-btn{
+    background-color: #ff4e00;
+}
+#equal-btn:hover{
+    background-color: aqua;
+}
+
+
